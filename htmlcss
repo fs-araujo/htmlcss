@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>replit</title>
+    </head>
+    <body>
+<p> This is a veryveryveryveryveryveryveryvery<wbr>veryveryveryveryryveryveryveryveryveryvery<br>veryveryveryveryveryveaz§veryveryver<wbr>yveryveryverylonglonglonglonglonglonglonglo</p>
+<p>This text contains <sub>subscript</sub>text</p>    
+<p>This text contains <sup>supscript</sup>text</p> 
+<p>Do not forget to buy <mark>milk</mark></p>
+<p>Do not forget to buy <s>milk</s></p>
+<p>Do not forget to buy <strong>milk</strong></p>
+<p>Do not forget to buy <em>milk</em></p>
+<p>Do not forget to buy <b>milk</b></p>
+<p>Do not forget to buy <u>milk</u></p>
+<p>Do not forget to buy <i>milk</i></p>
+<p>Do not forget to buy [&check] milk </p> <!--Check this stuff later-->
+<h2>HTML Image 1</h2>
+<img src="img.JPG" alt="500" width="500" heigh="500">   
+<p> This is a veryveryveryveryveryveryveryvery<wbr>veryveryveryveryveryveryver<wbr>yveryveryverylonglonglonglonglonglonglonglo</p>
+
+</html>
